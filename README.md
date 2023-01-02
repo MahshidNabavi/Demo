@@ -1,2 +1,3 @@
 # Demo
-learning how git and github is work
+learning how git and github works.
+
